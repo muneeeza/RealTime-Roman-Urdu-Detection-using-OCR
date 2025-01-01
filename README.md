@@ -32,3 +32,6 @@ This project is part of a deep learning course and aims to:
       https://drive.google.com/drive/folders/1IhvN1C3lqs8WoDZd1Q9F1MY5wMFJiX1O?usp=sharing
   
 More details in the report. 
+
+## Contributers 
+Hafsa Hafeez Siddiqui 
