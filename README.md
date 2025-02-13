@@ -2,7 +2,7 @@
 This Jupyter Notebook demonstrates a system for recognizing Roman Urdu text using Optical Character Recognition (OCR). Developed as a final project for a Computer Vision course, the project involves capturing images, preprocessing them for clarity, extracting text with EasyOCR, and distinguishing between English and Roman Urdu words using a custom dictionary.
 
 ## Project Overview
-This project is part of a deep learning course and aims to:
+This project is part of a computer vision course and aims to:
 
 * Capture text from an image.
 * Preprocess images to improve OCR accuracy.
